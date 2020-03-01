@@ -12,7 +12,7 @@ localhost:2020/login/userLogin
 ![avatar](img/login.png)
 
 
-## 二、数据脚本(SQL脚本在项目中,sql目录下的my_security.sql文件)
+## 二、数据脚本(SQL脚本在项目中sql目录下，名字叫my_security.sql)
 
 
 ## 三、如果有其它问题，欢迎提Issue
